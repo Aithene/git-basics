@@ -6,4 +6,4 @@ So, this repo is really just for experimenting.
 
 --
 
-Updating the ReadMe to trigger a new build in Codeship.
+Updating the ReadMe to trigger a first build in Codeship.
